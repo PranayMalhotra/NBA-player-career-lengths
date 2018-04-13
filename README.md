@@ -10,7 +10,7 @@ The dataset details the performance metrics of NBA players and whether their car
 
 ## Data
 
-The dataset contains columns giving values for points attained by NBA players in their careers. The description of column names is given in a .png file (image file), which is present in the repository.
+The dataset contains columns giving values for points attained by NBA players in their careers. The description of column names is given in a file named Column Name Explanations.png file (image file), which is present in the repository.
 
 The dataset is also present in the repository in a CSV file format.
 
